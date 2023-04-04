@@ -5,15 +5,21 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pos.web", "pos.web\pos.web.csproj", "{4BA94271-F8B0-404A-920D-DAC4CFE337E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pos.data", "pos.data\pos.data.csproj", "{68622439-65C9-4C90-8C89-921C23769A71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pos.data", "pos.data\pos.data.csproj", "{68622439-65C9-4C90-8C89-921C23769A71}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "domains", "domains", "{BEE01FA2-1834-421E-85FA-CC89F3F01B20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pos.products", "domains\products\pos.products\pos.products.csproj", "{F264770F-C447-41B5-8AD1-98EBE0B1C883}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pos.products", "domains\products\pos.products\pos.products.csproj", "{F264770F-C447-41B5-8AD1-98EBE0B1C883}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pos.products.test", "domains\products\pos.products.test\pos.products.test.csproj", "{05FB6046-9E62-49B9-BD8F-DB062109277C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pos.products.test", "domains\products\pos.products.test\pos.products.test.csproj", "{05FB6046-9E62-49B9-BD8F-DB062109277C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "products", "products", "{437D87C7-2282-440E-B887-809F78CFAB9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{7EF3325F-29E6-47AE-8266-560AFFA8BE64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pos.common.extensions", "common\pos.common.extensions\pos.common.extensions.csproj", "{5F471869-13D2-49A7-9AE7-F3141D944032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pos.common.extensions.file", "common\pos.common.extensions.file\pos.common.extensions.file.csproj", "{85B3B011-6529-4D43-80ED-38C6410B1255}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +43,14 @@ Global
 		{05FB6046-9E62-49B9-BD8F-DB062109277C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05FB6046-9E62-49B9-BD8F-DB062109277C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05FB6046-9E62-49B9-BD8F-DB062109277C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F471869-13D2-49A7-9AE7-F3141D944032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F471869-13D2-49A7-9AE7-F3141D944032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F471869-13D2-49A7-9AE7-F3141D944032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F471869-13D2-49A7-9AE7-F3141D944032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85B3B011-6529-4D43-80ED-38C6410B1255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85B3B011-6529-4D43-80ED-38C6410B1255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85B3B011-6529-4D43-80ED-38C6410B1255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85B3B011-6529-4D43-80ED-38C6410B1255}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +59,8 @@ Global
 		{F264770F-C447-41B5-8AD1-98EBE0B1C883} = {437D87C7-2282-440E-B887-809F78CFAB9A}
 		{05FB6046-9E62-49B9-BD8F-DB062109277C} = {437D87C7-2282-440E-B887-809F78CFAB9A}
 		{437D87C7-2282-440E-B887-809F78CFAB9A} = {BEE01FA2-1834-421E-85FA-CC89F3F01B20}
+		{5F471869-13D2-49A7-9AE7-F3141D944032} = {7EF3325F-29E6-47AE-8266-560AFFA8BE64}
+		{85B3B011-6529-4D43-80ED-38C6410B1255} = {7EF3325F-29E6-47AE-8266-560AFFA8BE64}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ECD1FC28-1DED-4294-A68D-63C4DDF35FEB}

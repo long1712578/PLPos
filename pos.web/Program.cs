@@ -1,8 +1,21 @@
+using pos.data;
+using pos.products;
+
 var builder = WebApplication.CreateBuilder(args);
+var isDevelopment = builder.Environment.IsDevelopment();
+var env = builder.Environment.EnvironmentName;
+
+builder.Configuration
+    .AddJsonFile("appsettings.json")
+    .AddJsonFile($"appsettings.{env}.json");
+var connectionString = builder.Configuration.GetConnectionString("TenantConnection");
 
 // Add services to the container.
 
-builder.Services.AddControllersWithViews();
+builder.Services
+    .AddDataService(connectionString, isDevelopment, isDevelopment)
+    .AddProductService()
+    .AddControllersWithViews();
 
 var app = builder.Build();
 
