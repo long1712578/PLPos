@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\bin\Debug\net6.0\pos.products.deps.json
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\bin\Debug\net6.0\pos.products.dll
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\bin\Debug\net6.0\pos.products.pdb
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\obj\Debug\net6.0\pos.products.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\obj\Debug\net6.0\pos.products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\obj\Debug\net6.0\pos.products.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\obj\Debug\net6.0\pos.products.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\obj\Debug\net6.0\pos.products.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\obj\Debug\net6.0\pos.products.dll
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\obj\Debug\net6.0\refint\pos.products.dll
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\obj\Debug\net6.0\pos.products.pdb
+C:\Users\Admin\source\repos\Pos\domains\products\pos.products\obj\Debug\net6.0\ref\pos.products.dll
