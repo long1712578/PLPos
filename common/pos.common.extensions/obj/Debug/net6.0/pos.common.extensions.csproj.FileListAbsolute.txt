@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\bin\Debug\net6.0\pos.common.extensions.deps.json
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\bin\Debug\net6.0\pos.common.extensions.dll
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\bin\Debug\net6.0\pos.common.extensions.pdb
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\obj\Debug\net6.0\pos.common.extensions.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\obj\Debug\net6.0\pos.common.extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\obj\Debug\net6.0\pos.common.extensions.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\obj\Debug\net6.0\pos.common.extensions.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\obj\Debug\net6.0\pos.common.extensions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\obj\Debug\net6.0\pos.common.extensions.dll
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\obj\Debug\net6.0\refint\pos.common.extensions.dll
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\obj\Debug\net6.0\pos.common.extensions.pdb
+C:\Users\Admin\source\repos\Pos\common\pos.common.extensions\obj\Debug\net6.0\ref\pos.common.extensions.dll

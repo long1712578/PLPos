@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Pos\pos.data\bin\Debug\net6.0\pos.data.deps.json
+C:\Users\Admin\source\repos\Pos\pos.data\bin\Debug\net6.0\pos.data.dll
+C:\Users\Admin\source\repos\Pos\pos.data\bin\Debug\net6.0\pos.data.pdb
+C:\Users\Admin\source\repos\Pos\pos.data\obj\Debug\net6.0\pos.data.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Pos\pos.data\obj\Debug\net6.0\pos.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Pos\pos.data\obj\Debug\net6.0\pos.data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Pos\pos.data\obj\Debug\net6.0\pos.data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Pos\pos.data\obj\Debug\net6.0\pos.data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pos\pos.data\obj\Debug\net6.0\pos.data.dll
+C:\Users\Admin\source\repos\Pos\pos.data\obj\Debug\net6.0\refint\pos.data.dll
+C:\Users\Admin\source\repos\Pos\pos.data\obj\Debug\net6.0\pos.data.pdb
+C:\Users\Admin\source\repos\Pos\pos.data\obj\Debug\net6.0\ref\pos.data.dll
+C:\Users\Admin\source\repos\Pos\pos.data\bin\Debug\net6.0\pos.data.runtimeconfig.json
+C:\Users\Admin\source\repos\Pos\pos.data\obj\Debug\net6.0\pos.data.genruntimeconfig.cache

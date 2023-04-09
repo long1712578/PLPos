@@ -10,8 +10,8 @@ namespace pos.web
         {
             var configurationBuider = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsetting.json")
-                .AddJsonFile("appsetting.Development.json", optional: true);
+                .AddJsonFile("appsettings.json")
+                .AddJsonFile("appsettings.Development.json", optional: true);
             var configuration = configurationBuider.Build();
             var connectionString = configuration.GetConnectionString("TenantConnection");
 

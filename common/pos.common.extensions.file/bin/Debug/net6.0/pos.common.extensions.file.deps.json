@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pos.common.extensions.file/1.0.0": {
+        "runtime": {
+          "pos.common.extensions.file.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pos.common.extensions.file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

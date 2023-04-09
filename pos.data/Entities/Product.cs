@@ -15,6 +15,12 @@ namespace pos.data.Entities
     {
         [MaxLength(250)]
         public string ProductName { get; set; }
+        [Precision(14, 2)]
+        public decimal WholeSalesPrice { get; set; }
+        [Precision(14, 2)]
+        public decimal SalesPrice { get; set; }
+        [Precision(14, 2)]
+        public decimal ImportPrice { get; set; }
     }
 
     public class ProductConfiguration : IEntityTypeConfiguration<Product>
